@@ -203,7 +203,7 @@ updated_at  | timestamp | ticket timestamp updated.
 | /api/events/{event_id}/tickets/{type} | get | Return a list of ticket for target event with event_id. Type must be __ok__ or __redeemed__ or __all__ |
 | /api/tickets/{ticket_id} | get | Return target ticket with UUID=ticket_id |
 | /api/tickets/{ticket_id}/update | post | update target ticket with  UUID=ticket_id |
-| /api/transactions/daily-sum | get | Sum daily all transactions |
+
 
 
 ## Laravel: My PHP Folders & Files
