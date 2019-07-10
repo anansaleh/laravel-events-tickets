@@ -1,0 +1,12 @@
+.modal-header, .el-dialog__header {
+  background: #4054b9 !important;
+  .close, .el-dialog__close{
+    color: #ffffff !important;
+    font-weight: bolder !important;
+    opacity: .99;
+  }
+  .modal-title, .el-dialog__title{
+    color: #ffffff;
+    font-weight: bolder;
+  }
+}
